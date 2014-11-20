@@ -1,1 +1,0 @@
-[{"MTVStars",114},{"AMAs",23},{"AOTY",23},{"BURADAYIZ",9},{"news",7}].
